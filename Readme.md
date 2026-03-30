@@ -18,7 +18,7 @@ This creates an urgent, unresolved question for every French FMCG brand:
 
 This project answers that question using publicly available data, economic reasoning, and reproducible Python analysis.
 
-...
+
 That is what this project builds.
 
 ## Key Output
