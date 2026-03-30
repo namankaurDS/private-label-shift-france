@@ -106,7 +106,7 @@ Based on Q1 and Q2: which categories fall into each strategic posture?
 
 | Source | What it gives us | URL |
 |---|---|---|
-| Open Food Facts | Product characteristics, brand vs MDD classification, nutrition, price | https://world.openfoodfacts.org/data |
+| Open Food Facts | Product characteristics, brand vs MDD classification, nutrition, price | <a href="https://world.openfoodfacts.org/data" target="_blank">https://world.openfoodfacts.org/data</a>|
 | INSEE IPC | Monthly price indices by food category, 2015–2024 | https://www.insee.fr/fr/statistiques/series/102342213?BASIND=2342227&ZONE_GEO=2320658 |
 | Kantar / PLMA (public) | Benchmark MDD market share figures by category | Public press releases and annual reports |
 
