@@ -217,7 +217,7 @@ Applying economic reasoning to real FMCG business problems.
 
 ## Status
 
-🔄 **In Progress** — March 2026
+🔄 **In Progress** — April 2026
 
 - [x] Business problem defined and sourced
 - [x] Data sources identified and validated
